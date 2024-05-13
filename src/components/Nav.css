@@ -1,0 +1,15 @@
+.nav-container{
+    background-color: #000;
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav-container a{
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.is-active{
+    background-color: #333;
+    
+}
